@@ -1,6 +1,6 @@
 # 🎮Chess TypeScript React App ♟
 
-Site [Link](https://chess-ts-react.netlify.app/).
+Site [Link](https://spectacular-pavlova-7ae31d.netlify.app/).
 
 ## Project Stack
 
